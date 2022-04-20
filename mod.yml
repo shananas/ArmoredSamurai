@@ -1,0 +1,7 @@
+title: Armored Samurai
+originalAuthor: Shananas
+assets:
+- name: obj/M_EX910.mdlx
+  method: copy
+  source:
+  - name: obj/M_EX910.mdlx
