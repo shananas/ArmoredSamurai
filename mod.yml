@@ -1,5 +1,6 @@
 title: Armored Samurai
 originalAuthor: Shananas
+game: kh2
 assets:
 - name: obj/M_EX910.mdlx
   method: copy
